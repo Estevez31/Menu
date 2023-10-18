@@ -310,14 +310,17 @@ if __name__ == "__main__":
 ![](MENU-1.PNG)
 
 ## Curcuito
-![]()
+![](0.jpg)
 > Menú
 
-![]()
+![](1.jpg)
+![](2.jpg)
 > Opción 1
 
-![]()
+![](3.jpg)
+![](4.jpg)
 > Opción 2
 
-![]()
+![](5.jpg)
+![](6.jpg)
 > Opción 3

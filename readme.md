@@ -1,4 +1,4 @@
-![]()
+![](FOTO.PNG)
 # **Tecnológico Nacional de México**
 # **Instituto Tecnológico de Tijuana**
 # **Subdirección Académica**
@@ -17,7 +17,7 @@
 
 ```
 ## Simulación del circuito
-![]()
+![](MENU-1.PNG)
 
 ## Curcuito
 ![]()
